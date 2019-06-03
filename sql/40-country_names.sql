@@ -142,6 +142,7 @@ INSERT INTO country_name (country_name, country_id) VALUES
 ('Kenya','urn:iso:std:3166:-2:KE'),
 ('Kingdom of Eswatini','urn:iso:std:3166:-2:SZ'),
 ('Kiribati','urn:iso:std:3166:-2:KI'),
+('Korea, Democratic People''s Republic of','urn:iso:std:3166:-2:KP'),
 ('Korea, Republic of','urn:iso:std:3166:-2:KR'),
 ('Kosovo','urn:iso:std:3166:-2:XK'),
 ('Kuwait','urn:iso:std:3166:-2:KW'),
