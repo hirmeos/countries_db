@@ -202,6 +202,7 @@ INSERT INTO country_name (country_name, country_id) VALUES
 ('Niue','urn:iso:std:3166:-2:NU'),
 ('Norfolk Island','urn:iso:std:3166:-2:NF'),
 ('North Korea','urn:iso:std:3166:-2:KP'),
+('North Macedonia','urn:iso:std:3166:-2:MK'),
 ('Northern Mariana Islands','urn:iso:std:3166:-2:MP'),
 ('Norway','urn:iso:std:3166:-2:NO'),
 ('Oman','urn:iso:std:3166:-2:OM'),
