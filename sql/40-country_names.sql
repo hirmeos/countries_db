@@ -93,6 +93,7 @@ INSERT INTO country_name (country_name, country_id) VALUES
 ('Ethiopia','urn:iso:std:3166:-2:ET'),
 ('Falkland Islands Malvinas','urn:iso:std:3166:-2:FK'),
 ('Falkland Islands [Islas Malvinas]','urn:iso:std:3166:-2:FK'),
+('Falkland Islands (Malvinas)','urn:iso:std:3166:-2:FK'),
 ('Faroe Islands','urn:iso:std:3166:-2:FO'),
 ('Fiji','urn:iso:std:3166:-2:FJ'),
 ('Finland','urn:iso:std:3166:-2:FI'),
